@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in București, România
-* ✉️  You can contact me at [sabinalexandru02@gmail.com](mailto:sabinalexandru9@gmail.com)
+* ✉️  You can contact me at [sabinalexandru9@gmail.com](mailto:sabinalexandru9@gmail.com)
 * 🚀  I'm currently working on [B-Zone - discord server](http://b.zone.ro/discord)
 * 🧠  I'm learning React Native
 
