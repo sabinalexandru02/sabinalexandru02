@@ -30,7 +30,7 @@ Full Stack Developer
 
 <p align="center">
   <img alt="Sabin Alexandru's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sabinalexandru02&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <a href="http://www.github.com/sabinalexandru02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=robertnitu02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+  <a href="http://www.github.com/sabinalexandru02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sabinalexandru02&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
 
 <br />
