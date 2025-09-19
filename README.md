@@ -5,7 +5,7 @@ Full Stack Developer
 --------------------
 
 * 🌍  I'm based in București, România
-* 🚀  I'm currently working on **My Creative Studio**)
+* 🚀  I'm currently working on **My Creative Studio**
 * 🧠  I'm learning Figma
 
 ### Skills
